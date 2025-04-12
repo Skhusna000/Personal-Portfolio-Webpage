@@ -35,4 +35,11 @@ Finally, the JavaScript code integrated within the page enhances the user experi
 In summary, the webpage is a well-crafted blend of semantic structure, responsive design, and interactive features that work harmoniously to present your personal brand. It is a perfect online portfolio tailored to engage, inform, and inspire your audience while reflecting your technical expertise and creative vision.
 
 
-OTPUT:
+OUTPUT:
+
+
+![Image](https://github.com/user-attachments/assets/005d915d-cbd2-4420-83c4-daca66fa79fa)
+
+
+
+
